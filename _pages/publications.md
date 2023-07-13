@@ -21,12 +21,13 @@ author_profile: true
 
 * [Deadline-Aware Multi-Agent Tour Planning](https://taoanhuang.github.io/files/ICAPS23.pdf).                     
     **Taoan Huang**, Vikas Shivashankar, Michael Caldara, Joseph Durham, Jiaoyang Li, Bistra Dilkina and Sven Koenig.    
-    <i>The 33rd International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, 2023 (in print).        
+    <i>The 33rd International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, 2023.
+    <p style="color:#FF0000">Best Student Paper Runner-Up.</p>   
     <!--[Another version](https://hsi-workshop.github.io/hsi-2022-camera-ready/Deadline-Aware_Multi-Agent_Tour_Planning.pdf) appeared at <i>the 2nd International Workshop on Heuristic Search in Industry in conjunction with IJCAI-ECAI</i>, 2022.  -->
 
 * [Local Branching Relaxation Heuristics for Integer Linear Programs](https://arxiv.org/pdf/2212.08183.pdf).                     
     **Taoan Huang**, Aaron Ferber, Yuandong Tian, Bistra Dilkina and Benoit Steiner.    
-    <i>The 20th International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (**CPAIOR**)</i>, 2023 (in print). 
+    <i>The 20th International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (**CPAIOR**)</i>, 2023. 
 
 
 
