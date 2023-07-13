@@ -18,6 +18,8 @@ author_profile: true
 * [SurCo: Learning Linear Surrogates For Combinatorial Nonlinear Optimization Problems](https://arxiv.org/pdf/2210.12547.pdf).                     
    Aaron Ferber, **Taoan Huang**, Daochen Zha, Martin Schubert, Benoit Steiner, Bistra Dilkina and Yuandong Tian.  
    <i>The 40th International Conference on Machine Learning (**ICML**)</i>, 2023 (in print).
+  <p><span style="color:red">Outstanding Paper at the SODS Workshop at ICML 2023 (2 out of all submissions).</span></p>
+
 
 * [Deadline-Aware Multi-Agent Tour Planning](https://taoanhuang.github.io/files/ICAPS23.pdf).                     
     **Taoan Huang**, Vikas Shivashankar, Michael Caldara, Joseph Durham, Jiaoyang Li, Bistra Dilkina and Sven Koenig.    
