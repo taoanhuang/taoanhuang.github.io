@@ -49,6 +49,7 @@ author_profile: true
 * [Learning a Priority Ordering for Prioritized Planning in Multi-Agent Path Finding](https://taoanhuang.github.io/files/socs22a.pdf).                     
     Shuyang Zhang, Jiaoyang Li, **Taoan Huang**, Sven Koenig and Bistra Dilkina.    
     <i>Symposium on Combinatorial Search (**SoCS**)</i>, 2022.  
+    [\[code\]](https://github.com/JessieShuyangZhang/Prioritized-Planning-with-ML)
 
 
 * [Anytime Multi-Agent Path Finding via Machine Learning-Guided Large Neighborhood Search](https://taoanhuang.github.io/files/aaai22.pdf).                     
@@ -72,7 +73,7 @@ author_profile: true
     <i>ACM SIGCAS Conference on Computing and Sustainable Societies (**COMPASS**)</i>, 2020.    
     
 
-* [ When to Follow the Tip: Security Games with Strategic Informants](https://taoanhuang.github.io/files/ijcai20.pdf).         
+* [When to Follow the Tip: Security Games with Strategic Informants](https://taoanhuang.github.io/files/ijcai20.pdf).         
     Weiran Shen, Weizhe Chen, **Taoan Huang**, Rohit Singh and Fei Fang.        
     <i>International Joint Conference on Artificial Intelligence (**IJCAI**)</i>, 2020.    
 
