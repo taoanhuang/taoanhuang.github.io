@@ -18,16 +18,16 @@ author_profile: true
     Shuwei Wang, Vadim Bulitko, **Taoan Huang**, Sven Koenig and Roni Stern.    
     <i>The 19th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (**AIIDE**)</i>, 2023 (in print).
 
-* [Searching Large Neighborhoods for Integer Linear Programs with Contrastive Learning.](https://arxiv.org/pdf/2302.01578.pdf)                     
+* [Searching Large Neighborhoods for Integer Linear Programs with Contrastive Learning.](https://proceedings.mlr.press/v202/huang23g.html)                     
     **Taoan Huang**, Aaron Ferber, Yuandong Tian, Bistra Dilkina and Benoit Steiner.    
-    <i>The 40th International Conference on Machine Learning (**ICML**)</i>, 2023 (in print).  
-    [\[code\]](https://github.com/facebookresearch/CL-LNS)
+    <i>The 40th International Conference on Machine Learning (**ICML**)</i>, 2023.  
+    [\[code\]](https://github.com/facebookresearch/CL-LNS)[\[project page\]](https://taoanhuang.github.io/project/LNS_ILP)
     
 
-* [SurCo: Learning Linear Surrogates For Combinatorial Nonlinear Optimization Problems](https://arxiv.org/pdf/2210.12547.pdf).                     
+* [SurCo: Learning Linear Surrogates For Combinatorial Nonlinear Optimization Problems](https://proceedings.mlr.press/v202/ferber23a.html).                     
    Aaron Ferber, **Taoan Huang**, Daochen Zha, Martin Schubert, Benoit Steiner, Bistra Dilkina and Yuandong Tian.  
-   <i>The 40th International Conference on Machine Learning (**ICML**)</i>, 2023 (in print).  
-    [\[code\]](https://github.com/facebookresearch/SurCo)
+   <i>The 40th International Conference on Machine Learning (**ICML**)</i>, 2023.  
+    [\[code\]](https://github.com/facebookresearch/SurCo)[\[project page\]](https://sites.google.com/usc.edu/surco/)
   <p><span style="color:red">Outstanding Paper at the SODS Workshop at ICML 2023 (2 out of all submissions).</span></p>
 
 
@@ -40,6 +40,7 @@ author_profile: true
 * [Local Branching Relaxation Heuristics for Integer Linear Programs](https://arxiv.org/pdf/2212.08183.pdf).                     
     **Taoan Huang**, Aaron Ferber, Yuandong Tian, Bistra Dilkina and Benoit Steiner.    
     <i>The 20th International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (**CPAIOR**)</i>, 2023. 
+    [\[project page\]](https://taoanhuang.github.io/project/LNS_ILP)
 
 
 
