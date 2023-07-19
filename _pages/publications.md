@@ -16,21 +16,21 @@ author_profile: true
 
 * [Searching Large Neighborhoods for Integer Linear Programs with Contrastive Learning.](https://arxiv.org/pdf/2302.01578.pdf)                     
     **Taoan Huang**, Aaron Ferber, Yuandong Tian, Bistra Dilkina and Benoit Steiner.    
-    <i>The 40th International Conference on Machine Learning (**ICML**)</i>, 2023 (in print).
+    <i>The 40th International Conference on Machine Learning (**ICML**)</i>, 2023 (in print).  
     [\[code\]](https://github.com/facebookresearch/SurCo)
     
 
 * [SurCo: Learning Linear Surrogates For Combinatorial Nonlinear Optimization Problems](https://arxiv.org/pdf/2210.12547.pdf).                     
    Aaron Ferber, **Taoan Huang**, Daochen Zha, Martin Schubert, Benoit Steiner, Bistra Dilkina and Yuandong Tian.  
-   <i>The 40th International Conference on Machine Learning (**ICML**)</i>, 2023 (in print).
-  [\[code\]](https://github.com/facebookresearch/CL-LNS)
-  <span style="color:red">Outstanding Paper at the SODS Workshop at ICML 2023 (2 out of all submissions).</span>
+   <i>The 40th International Conference on Machine Learning (**ICML**)</i>, 2023 (in print).  
+    [\[code\]](https://github.com/facebookresearch/CL-LNS)
+  <p><span style="color:red">Outstanding Paper at the SODS Workshop at ICML 2023 (2 out of all submissions).</span></p>
 
 
 * [Deadline-Aware Multi-Agent Tour Planning](https://taoanhuang.github.io/files/ICAPS23.pdf).                     
     **Taoan Huang**, Vikas Shivashankar, Michael Caldara, Joseph Durham, Jiaoyang Li, Bistra Dilkina and Sven Koenig.    
     <i>The 33rd International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, 2023.
-   <span style="color:red">Best Student Paper Runner-Up.</span>
+   <p><span style="color:red">Best Student Paper Runner-Up.</span></p>
     <!--[Another version](https://hsi-workshop.github.io/hsi-2022-camera-ready/Deadline-Aware_Multi-Agent_Tour_Planning.pdf) appeared at <i>the 2nd International Workshop on Heuristic Search in Industry in conjunction with IJCAI-ECAI</i>, 2022.  -->
 
 * [Local Branching Relaxation Heuristics for Integer Linear Programs](https://arxiv.org/pdf/2212.08183.pdf).                     
