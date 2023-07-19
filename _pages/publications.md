@@ -8,11 +8,15 @@ author_profile: true
 ## Working Paper
 
 * [Landscape Surrogate: Learning Decision Losses for Mathematical Optimization Under Partial Information.](https://arxiv.org/abs/2307.08964)                     
-    Arman Zharmagambetov, Brandon Amos, Aaron Ferber, **Taoan Huang**, Bistra Dilkina, Yuandong Tian.    
+    Arman Zharmagambetov, Brandon Amos, Aaron Ferber, **Taoan Huang**, Bistra Dilkina and Yuandong Tian.    
     [\[code\]](https://github.com/facebookresearch/LANCER)
 
 
 ## 2023
+
+* Synthesizing Priority Planning Formulae for Multi-Agent Pathfinding.                     
+    Shuwei Wang, Vadim Bulitko, **Taoan Huang**, Sven Koenig and Roni Stern.    
+    <i>The 19th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (**AIIDE**)</i>, 2023 (in print).
 
 * [Searching Large Neighborhoods for Integer Linear Programs with Contrastive Learning.](https://arxiv.org/pdf/2302.01578.pdf)                     
     **Taoan Huang**, Aaron Ferber, Yuandong Tian, Bistra Dilkina and Benoit Steiner.    
