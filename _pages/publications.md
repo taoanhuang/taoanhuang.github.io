@@ -21,13 +21,13 @@ author_profile: true
 * [Searching Large Neighborhoods for Integer Linear Programs with Contrastive Learning.](https://arxiv.org/pdf/2302.01578.pdf)                     
     **Taoan Huang**, Aaron Ferber, Yuandong Tian, Bistra Dilkina and Benoit Steiner.    
     <i>The 40th International Conference on Machine Learning (**ICML**)</i>, 2023 (in print).  
-    [\[code\]](https://github.com/facebookresearch/SurCo)
+    [\[code\]](https://github.com/facebookresearch/CL-LNS)
     
 
 * [SurCo: Learning Linear Surrogates For Combinatorial Nonlinear Optimization Problems](https://arxiv.org/pdf/2210.12547.pdf).                     
    Aaron Ferber, **Taoan Huang**, Daochen Zha, Martin Schubert, Benoit Steiner, Bistra Dilkina and Yuandong Tian.  
    <i>The 40th International Conference on Machine Learning (**ICML**)</i>, 2023 (in print).  
-    [\[code\]](https://github.com/facebookresearch/CL-LNS)
+    [\[code\]](https://github.com/facebookresearch/SurCo)
   <p><span style="color:red">Outstanding Paper at the SODS Workshop at ICML 2023 (2 out of all submissions).</span></p>
 
 
