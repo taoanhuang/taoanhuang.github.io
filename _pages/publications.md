@@ -9,7 +9,7 @@ author_profile: true
 
 * [Landscape Surrogate: Learning Decision Losses for Mathematical Optimization Under Partial Information.](https://arxiv.org/abs/2307.08964)                     
     Arman Zharmagambetov, Brandon Amos, Aaron Ferber, **Taoan Huang**, Bistra Dilkina, Yuandong Tian.    
-    \[code\](https://github.com/facebookresearch/LANCER)
+    [\[code\]](https://github.com/facebookresearch/LANCER)
 
 
 ## 2023
