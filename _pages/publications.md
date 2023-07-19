@@ -7,6 +7,9 @@ author_profile: true
 
 ## Working Paper
 
+* [Landscape Surrogate: Learning Decision Losses for Mathematical Optimization Under Partial Information.](https://arxiv.org/abs/2307.08964)                     
+    Arman Zharmagambetov, Brandon Amos, Aaron Ferber, **Taoan Huang**, Bistra Dilkina, Yuandong Tian.    
+    \[code\](https://github.com/facebookresearch/LANCER)
 
 
 ## 2023
@@ -14,6 +17,7 @@ author_profile: true
 * [Searching Large Neighborhoods for Integer Linear Programs with Contrastive Learning.](https://arxiv.org/pdf/2302.01578.pdf)                     
     **Taoan Huang**, Aaron Ferber, Yuandong Tian, Bistra Dilkina and Benoit Steiner.    
     <i>The 40th International Conference on Machine Learning (**ICML**)</i>, 2023 (in print).
+    
 
 * [SurCo: Learning Linear Surrogates For Combinatorial Nonlinear Optimization Problems](https://arxiv.org/pdf/2210.12547.pdf).                     
    Aaron Ferber, **Taoan Huang**, Daochen Zha, Martin Schubert, Benoit Steiner, Bistra Dilkina and Yuandong Tian.  
