@@ -22,6 +22,7 @@ My research interests lie in artificial intelligence, with a focus on multi-agen
 [CV](https://taoanhuang.github.io/files/TaoanHuangCV.pdf)
 
 ## News
+* \[2023.07\] Our [SurCo paper](https://arxiv.org/pdf/2210.12547.pdf) won the Outstanding Paper Award at the ICML 2023 SODS Workshop.
 * \[2023.07\] [Our paper]([https://taoanhuang.github.io/files/ICAPS23.pdf](https://ojs.aaai.org/index.php/ICAPS/article/view/27194)) on solving large scale planning problems in automated warehouses is named the Best Student Paper Runner-Up at [ICAPS-2023](https://icaps23.icaps-conference.org/).
 * \[2023.04\] Our papers on ML-guided optimization for [mixed integer programs](https://arxiv.org/pdf/2302.01578.pdf) and [non-linear combinatorial optimization](https://arxiv.org/pdf/2210.12547.pdf) with [Facebook AI Research](https://ai.facebook.com/) are accepted to [ICML-2023](https://icml.cc/Conferences/2023).
 * \[2023.03\] Our works on using ML for combinatorial optimizations are presented at the [IPAM Artificial Intelligence and Discrete Optimization
@@ -34,12 +35,14 @@ Workshop](http://www.ipam.ucla.edu/programs/workshops/artificial-intelligence-an
 * \[2022.05\] Undergrad student Shuyang Zhang, that I co-advised with [Jiaoyang Li](https://jiaoyangli.me/), won the USC Outstanding CS Undergraduate Research Award. We published a paper at SoCS-22 on learning priority orders for agents in path planning. 
 * \[2022.04\] My research on Enhancing Seismic Resilient Water Pipe Network is selected for oral presentation at the Fourteenth Annual Annenberg Graduate Fellowship Research and Creative Project Symposium. Only six submissions were selected!
 * \[2022.03\] I passed the Qualification Exam and now I am a Ph.D. candidate!
-* \[2021.12\] Our paper on ML-guided large neighborhood search for MAPF is accepted to [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
 
 
 <details>
   <summary>Show more</summary>
   <ul>
+    <li>
+      [2021.12] Our paper on ML-guided large neighborhood search for MAPF is accepted to [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
+    </li>
     <li>
     [2021.11] I am joining <a href="https://ai.facebook.com/"> Facebook AI Research (FAIR)</a> as a research intern next May.
     </li>
