@@ -28,7 +28,7 @@ author_profile: true
    Aaron Ferber, **Taoan Huang**, Daochen Zha, Martin Schubert, Benoit Steiner, Bistra Dilkina and Yuandong Tian.  
    <i>The 40th International Conference on Machine Learning (**ICML**)</i>, 2023.  
     [\[code\]](https://github.com/facebookresearch/SurCo)[\[project page\]](https://sites.google.com/usc.edu/surco/)
-  <p><span style="color:red">Outstanding Paper at the SODS Workshop at ICML 2023 (2 out of all submissions).</span></p>
+  <p><span style="color:red">Outstanding Paper Award at the ICML 2023 SODS Workshop (top-2 paper).</span></p>
 
 
 * [Deadline-Aware Multi-Agent Tour Planning](https://taoanhuang.github.io/files/ICAPS23.pdf).                     
