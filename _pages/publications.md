@@ -7,12 +7,15 @@ author_profile: true
 
 ## Working Paper
 
-* [Landscape Surrogate: Learning Decision Losses for Mathematical Optimization Under Partial Information.](https://arxiv.org/abs/2307.08964)                     
-    Arman Zharmagambetov, Brandon Amos, Aaron Ferber, **Taoan Huang**, Bistra Dilkina and Yuandong Tian.    
-    [\[code\]](https://github.com/facebookresearch/LANCER)
+
 
 
 ## 2023
+
+* [Landscape Surrogate: Learning Decision Losses for Mathematical Optimization Under Partial Information.](https://arxiv.org/abs/2307.08964)                     
+    Arman Zharmagambetov, Brandon Amos, Aaron Ferber, **Taoan Huang**, Bistra Dilkina and Yuandong Tian.    
+    <i>The 37th Conference on Neural Information Processing Systems (**NeurIPS**)</i>, 2023 (in print).  
+    [\[code\]](https://github.com/facebookresearch/LANCER)
 
 * Synthesizing Priority Planning Formulae for Multi-Agent Pathfinding.                     
     Shuwei Wang, Vadim Bulitko, **Taoan Huang**, Sven Koenig and Roni Stern.    
