@@ -7,8 +7,11 @@ author_profile: true
 
 ## Working Paper
 
+* Contrastive Predict-and-Search for Mixed Integer Linear Programs                     
+    **Taoan Huang**, Aaron Ferber, Arman Zharmagambetov, Yuandong Tian and Bistra Dilkina.    
 
-
+* [GenCO: Generating Diverse Solutions to Design Problems with Combinatorial Nature.](https://arxiv.org/abs/2310.02442)                     
+    Aaron Ferber, Arman Zharmagambetov, **Taoan Huang**, Bistra Dilkina and Yuandong Tian.  
 
 ## 2023
 
