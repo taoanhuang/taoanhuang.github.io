@@ -22,6 +22,10 @@ My research interests lie in artificial intelligence, with a focus on multi-agen
 [CV](https://taoanhuang.github.io/files/TaoanHuangCV.pdf)
 
 ## News
+* \[2023.12\] Our work BALANCE, a bandit-based Large Neighborhood Search for MAPF, is accepted to [AAAI 2024](https://aaai.org/aaai-conference/).
+* \[2023.10\] I gave a research talk on neural combinatorial optimization at [The D.E. Shaw Group](https://www.deshaw.com/).
+* \[2023.09\] I passed my PhD thesis proposal!
+* \[2023.09\] Our work with [FAIR](https://ai.meta.com/), [LANCER: Learning Decision Losses for Mathematical Optimization Under Partial Information](https://arxiv.org/abs/2307.08964), is accepted to [NeurIPS 2023](https://neurips.cc/Conferences/2023)!
 * \[2023.07\] Our [SurCo paper](https://arxiv.org/pdf/2210.12547.pdf) won the Outstanding Paper Award at the ICML 2023 SODS Workshop.
 * \[2023.07\] [Our paper]([https://taoanhuang.github.io/files/ICAPS23.pdf](https://ojs.aaai.org/index.php/ICAPS/article/view/27194)) on solving large scale planning problems in automated warehouses is named the Best Student Paper Runner-Up at [ICAPS-2023](https://icaps23.icaps-conference.org/).
 * \[2023.04\] Our papers on ML-guided optimization for [mixed integer programs](https://arxiv.org/pdf/2302.01578.pdf) and [non-linear combinatorial optimization](https://arxiv.org/pdf/2210.12547.pdf) with [Facebook AI Research](https://ai.facebook.com/) are accepted to [ICML-2023](https://icml.cc/Conferences/2023).
