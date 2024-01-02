@@ -27,7 +27,7 @@ author_profile: true
     <i>The 37th Conference on Neural Information Processing Systems (**NeurIPS**)</i>, 2023.  
     [\[code\]](https://github.com/facebookresearch/LANCER)
 
-* Synthesizing Priority Planning Formulae for Multi-Agent Pathfinding.                     
+* [Synthesizing Priority Planning Formulae for Multi-Agent Pathfinding.](https://dl.acm.org/doi/10.1609/aiide.v19i1.27532)                     
     Shuwei Wang, Vadim Bulitko, **Taoan Huang**, Sven Koenig and Roni Stern.    
     <i>The 19th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (**AIIDE**)</i>, 2023.
 
