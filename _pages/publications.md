@@ -13,16 +13,23 @@ author_profile: true
 * [GenCO: Generating Diverse Solutions to Design Problems with Combinatorial Nature.](https://arxiv.org/abs/2310.02442)                     
     Aaron Ferber, Arman Zharmagambetov, **Taoan Huang**, Bistra Dilkina and Yuandong Tian.  
 
+## 2024
+
+* [Adaptive Anytime Multi-Agent Path Finding Using Bandit-Based Large Neighborhood Search.](https://arxiv.org/abs/2312.16767)                     
+    Thomy Phan, **Taoan Huang**, Bistra Dilkina and Sven Koenig.    
+    <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, 2024. 
+
+
 ## 2023
 
 * [Landscape Surrogate: Learning Decision Losses for Mathematical Optimization Under Partial Information.](https://arxiv.org/abs/2307.08964)                     
     Arman Zharmagambetov, Brandon Amos, Aaron Ferber, **Taoan Huang**, Bistra Dilkina and Yuandong Tian.    
-    <i>The 37th Conference on Neural Information Processing Systems (**NeurIPS**)</i>, 2023 (in print).  
+    <i>The 37th Conference on Neural Information Processing Systems (**NeurIPS**)</i>, 2023.  
     [\[code\]](https://github.com/facebookresearch/LANCER)
 
 * Synthesizing Priority Planning Formulae for Multi-Agent Pathfinding.                     
     Shuwei Wang, Vadim Bulitko, **Taoan Huang**, Sven Koenig and Roni Stern.    
-    <i>The 19th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (**AIIDE**)</i>, 2023 (in print).
+    <i>The 19th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (**AIIDE**)</i>, 2023.
 
 * [Searching Large Neighborhoods for Integer Linear Programs with Contrastive Learning.](https://proceedings.mlr.press/v202/huang23g.html)                     
     **Taoan Huang**, Aaron Ferber, Yuandong Tian, Bistra Dilkina and Benoit Steiner.    
