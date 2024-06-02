@@ -7,13 +7,19 @@ author_profile: true
 
 ## Working Paper
 
-* Contrastive Predict-and-Search for Mixed Integer Linear Programs                     
-    **Taoan Huang**, Aaron Ferber, Arman Zharmagambetov, Yuandong Tian and Bistra Dilkina.    
+* [Learning Backdoors for Mixed Integer Programs with Contrastive Learning.](https://arxiv.org/abs/2401.10467)
+    Junyang Cai, **Taoan Huang** and Bistra Dilkina.    
+
+
+## 2024
+
+* Contrastive Predict-and-Search for Mixed Integer Linear Programs.                     
+    **Taoan Huang**, Aaron Ferber, Arman Zharmagambetov, Yuandong Tian and Bistra Dilkina.
+    <i>The 41st International Conference on Machine Learning (**ICML**)</i>, 2024.  
 
 * [GenCO: Generating Diverse Solutions to Design Problems with Combinatorial Nature.](https://arxiv.org/abs/2310.02442)                     
     Aaron Ferber, Arman Zharmagambetov, **Taoan Huang**, Bistra Dilkina and Yuandong Tian.  
-
-## 2024
+    <i>The 41st International Conference on Machine Learning (**ICML**)</i>, 2024.  
 
 * [Adaptive Anytime Multi-Agent Path Finding Using Bandit-Based Large Neighborhood Search.](https://arxiv.org/abs/2312.16767)                     
     Thomy Phan, **Taoan Huang**, Bistra Dilkina and Sven Koenig.    
