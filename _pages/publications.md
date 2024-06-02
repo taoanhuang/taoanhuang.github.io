@@ -14,7 +14,7 @@ author_profile: true
 ## 2024
 
 * Contrastive Predict-and-Search for Mixed Integer Linear Programs.                     
-    **Taoan Huang**, Aaron Ferber, Arman Zharmagambetov, Yuandong Tian and Bistra Dilkina.
+    **Taoan Huang**, Aaron Ferber, Arman Zharmagambetov, Yuandong Tian and Bistra Dilkina.  
     <i>The 41st International Conference on Machine Learning (**ICML**)</i>, 2024.  
 
 * [GenCO: Generating Diverse Solutions to Design Problems with Combinatorial Nature.](https://arxiv.org/abs/2310.02442)                     
