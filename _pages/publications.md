@@ -16,7 +16,7 @@ author_profile: true
 
 ## 2024
 
-* An Extensive Study of Security Games with Strategic Informants.                     
+* [An Extensive Study of Security Games with Strategic Informants.](https://www.sciencedirect.com/science/article/abs/pii/S0004370224000985)                     
     Weiran Shen, Minbiao Han, Weizhe Chen, **Taoan Huang**, Rohit Singh, Haifeng Xu and Fei Fang.  
     <i>Artificial Intelligence (**AIJ**)</i>, 2024.  
 
