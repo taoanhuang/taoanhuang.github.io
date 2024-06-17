@@ -8,10 +8,17 @@ author_profile: true
 ## Working Paper
 
 * [Learning Backdoors for Mixed Integer Programs with Contrastive Learning.](https://arxiv.org/abs/2401.10467)                     
-    Junyang Cai, **Taoan Huang** and Bistra Dilkina.    
+    Junyang Cai, **Taoan Huang** and Bistra Dilkina.
+
+* [Distributional MIPLIB: a Multi-Domain Library for Advancing ML-Guided MILP Methods.](https://arxiv.org/abs/2406.06954)                     
+    Weimin Huang, **Taoan Huang**, Aaron Ferber and Bistra Dilkina.
 
 
 ## 2024
+
+* An Extensive Study of Security Games with Strategic Informants.                     
+    Weiran Shen, Minbiao Han, Weizhe Chen, **Taoan Huang**, Rohit Singh, Haifeng Xu and Fei Fang.  
+    <i>Artificial Intelligence (**AIJ**)</i>, 2024.  
 
 * Contrastive Predict-and-Search for Mixed Integer Linear Programs.                     
     **Taoan Huang**, Aaron Ferber, Arman Zharmagambetov, Yuandong Tian and Bistra Dilkina.  
