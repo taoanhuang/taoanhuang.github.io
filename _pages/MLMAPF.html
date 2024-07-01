@@ -202,14 +202,19 @@ redirect_from:
         <h2 class="title is-3">Abstract</h2>
         <div class="content has-text-justified">
           <p>
-            Integer Linear Programs  (ILPs) are powerful tools for modeling and solving a large number of combinatorial optimization problems. Recently, it has been shown that Large Neighborhood Search (LNS), as a heuristic algorithm, can find high quality solutions to ILPs faster than Branch and Bound. However, how to find the right heuristics to maximize the performance of LNS remains an open problem. 
-            </p>
-          <p>
-In this work, we first focus on designing effective and efficient heuristics in LNS for integer linear programs. Local Branching (LB) is a heuristic that selects the neighborhood that leads to the largest improvement over the current solution in each iteration of LNS. LB is often slow since it needs to solve an ILP of the same size as input. Our proposed heuristics, LB-RELAX and its variants, use the linear programming relaxation of LB to select neighborhoods. Empirically, they compute as effective neighborhoods as LB but run faster. 
-            </p>
-          <p>
-We also propose a novel machine learning-based approach, CL-LNS, that delivers state-of-the-art anytime performance on several ILP benchmarks measured by metrics including the primal gap, the primal integral, survival rates and the best performing rate. Specifically, CL-LNS collects positive and negative solution samples from an expert heuristic that is slow to compute and learns a more efficient one with contrastive learning. We use graph attention networks and a richer set of features to further improve its performance. 
+Multi-agent path finding (MAPF) is the problem of finding collision-free paths for agents in a shared environment that minimizes their total travel time. 
+It is an NP-hard problem that has important applications for distribution centers, traffic management and computer games.  
+Various search algorithms have been proposed to solve MAPF combinatorially. Search algorithms, such as Conflict-Based Search (CBS), are guaranteed to find optimal solutions. 
+To trade off runtime with solution quality, bounded-suboptimal search algorithms, such as Enhanced CBS (ECBS), have been proposed to find solutions with a guaranteed approximation ratio and are more scalable than optimal search algorithms. 
+To find solutions even faster, unbounded-suboptimal search algorithms, such as Prioritized Planning (PP) and Large Neighborhood Search (LNS), drop optimality guarantees to find solutions even faster. 
+There are a handful of decisions in these search algorithms that concern partitioning the search space, prioritizing search space exploration and pruning the search space. 
+Thus, they typically have a big impact on the efficiency and/or effectiveness of the search. In the past decade of research on MAPF, those decisions have mainly been made manually by humans. 
+In this research, we show that one can leverage machine learning to improve decision-making in various types of search algorithms for MAPF and introduce CBS+ML, ECBS+ML, LNS+ML and PP+ML. 
+Specifically, we apply general machine learning techniques to learn (1) which conflict to resolve next in CBS, (2) which search tree node to expand next in ECBS, (3) which part of the solutions to improve next in LNS and (4) which priority to assign to agents in PP. 
+In these four settings, we deploy imitation learning to imitate slow but effective experts and reduce the ML task to learning-to-rank problems where the ML models rank available decisions. 
+Empirically, we demonstrate that our ML-guided search algorithms show substantial improvement in terms of the success rates, runtimes and/or solution qualities over their state-of-the-art non-ML-guided counterparts on several different types of grid maps from the MAPF benchmark.   
           </p>
+          
         </div>
       </div>
     </div>
