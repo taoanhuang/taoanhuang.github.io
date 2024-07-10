@@ -14,8 +14,8 @@ author_profile: true
 ## 2024
 
 * [Learning Backdoors for Mixed Integer Programs with Contrastive Learning.](https://arxiv.org/abs/2401.10467)                     
-    Junyang Cai, **Taoan Huang** and Bistra Dilkina.
-  <i> The 27th European Conference on Artificial Intelligence (**ECAI**)</i>, 2024/
+    Junyang Cai, **Taoan Huang** and Bistra Dilkina.  
+      <i> The 27th European Conference on Artificial Intelligence (**ECAI**)</i>, 2024.
 
 * [An Extensive Study of Security Games with Strategic Informants.](https://www.sciencedirect.com/science/article/abs/pii/S0004370224000985)                     
     Weiran Shen, Minbiao Han, Weizhe Chen, **Taoan Huang**, Rohit Singh, Haifeng Xu and Fei Fang.  
