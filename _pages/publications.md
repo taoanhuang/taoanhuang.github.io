@@ -21,7 +21,7 @@ author_profile: true
     Weiran Shen, Minbiao Han, Weizhe Chen, **Taoan Huang**, Rohit Singh, Haifeng Xu and Fei Fang.  
     <i>Artificial Intelligence (**AIJ**)</i>, 2024.  
 
-* Contrastive Predict-and-Search for Mixed Integer Linear Programs.                     
+* [Contrastive Predict-and-Search for Mixed Integer Linear Programs.](https://proceedings.mlr.press/v235/huang24f.html)                    
     **Taoan Huang**, Aaron Ferber, Arman Zharmagambetov, Yuandong Tian and Bistra Dilkina.  
     <i>The 41st International Conference on Machine Learning (**ICML**)</i>, 2024.  
 
