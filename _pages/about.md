@@ -22,6 +22,11 @@ My research interests lie in artificial intelligence, with a focus on multi-agen
 [CV](https://taoanhuang.github.io/files/TaoanHuangCV.pdf)
 
 ## News
+
+* \[2024.08\] I defended my thesis on Improving Decision-Making in Search Algorithms with Machine Learning for Combinatorial Optimizations.
+* \[2024.07\] Our paper on using [contrastive learning for backdoor predictions for MILPs](https://arxiv.org/html/2401.10467v2) has been accepted to [ECAI 2024](https://www.ecai2024.eu/).
+* \[2024.06\] We released [Distributional MIPLIB](https://sites.google.com/usc.edu/distributional-miplib/home), a multi-domain library of problem distributions for advancing machine learning-guided mixed integer linear programming solving.
+* \[2024.05\] Our papers [ConPaS](https://proceedings.mlr.press/v235/huang24f.html) and [GenCo](https://arxiv.org/abs/2310.02442) have been accepted to ICML 2024.
 * \[2023.12\] Our work BALANCE, a bandit-based Large Neighborhood Search for MAPF, is accepted to [AAAI 2024](https://aaai.org/aaai-conference/).
 * \[2023.10\] I gave a research talk on neural combinatorial optimization at [The D.E. Shaw Group](https://www.deshaw.com/).
 * \[2023.09\] I passed my PhD thesis proposal!
@@ -31,21 +36,29 @@ My research interests lie in artificial intelligence, with a focus on multi-agen
 * \[2023.04\] Our papers on ML-guided optimization for [mixed integer programs](https://arxiv.org/pdf/2302.01578.pdf) and [non-linear combinatorial optimization](https://arxiv.org/pdf/2210.12547.pdf) with [Facebook AI Research](https://ai.facebook.com/) are accepted to [ICML-2023](https://icml.cc/Conferences/2023).
 * \[2023.03\] Our works on using ML for combinatorial optimizations are presented at the [IPAM Artificial Intelligence and Discrete Optimization
 Workshop](http://www.ipam.ucla.edu/programs/workshops/artificial-intelligence-and-discrete-optimization/). The recordings can be found on YouTube: [Bistra's presentation](https://www.youtube.com/watch?v=hdad1if4MqU), [Yuandong's presentation](https://www.youtube.com/watch?v=REF8aS2u74k). I also presented a [poster](https://taoanhuang.github.io/files/MLforMAPF_Taoan_Huang.pdf) which is a summary of my work on ML-guided multi-agent path finding.
-* \[2023.02\] Our paper with Amazon Robotics on solving large scale planning problems in automated warehouses is accepted to [ICAPS-2023](https://icaps23.icaps-conference.org/). I also presented this [work](http://idm-lab.org/wiki/AAAI23-MAPF/index.php/Main/HomePage?action=download&upname=Paper_12.pdf) at [AAAI-23 Workshop on Multi-Agent Path Finding](http://idm-lab.org/wiki/AAAI23-MAPF/index.php/Main/HomePage).
+* \[2023.02\] Our paper with Amazon Robotics on solving large-scale planning problems in automated warehouses is accepted to [ICAPS-2023](https://icaps23.icaps-conference.org/). I also presented this [work](http://idm-lab.org/wiki/AAAI23-MAPF/index.php/Main/HomePage?action=download&upname=Paper_12.pdf) at [AAAI-23 Workshop on Multi-Agent Path Finding](http://idm-lab.org/wiki/AAAI23-MAPF/index.php/Main/HomePage).
 * \[2023.01\] [Our paper](https://arxiv.org/pdf/2212.08183.pdf) with [Facebook AI Research](https://ai.facebook.com/) on applying large neighborhood search to solve integer linear programs is accepted to [CPAIOR-2023](https://sites.google.com/view/cpaior2023/home). We discovered a simple yet effective destroy heuristic based on the LP relaxation of Local Branching. 
 * \[2022.10\] I presented my work on ML-guided multi-agent path finding at [INFORMS Annual Meeting 2022](https://meetings.informs.org/wordpress/indianapolis2022/).
 * \[2022.08\] I started a new position as a student researcher at [Meta AI, FAIR](https://ai.facebook.com/).
-* \[2022.07\] I presented my work with Amazon Robotics on [Deadline Aware Multi-Agent Tour Planning](https://hsi-workshop.github.io/hsi-2022-camera-ready/Deadline-Aware_Multi-Agent_Tour_Planning.pdf) at [HSI Workshop 2022 (in conjunction with IJCAI-ECAI 2022)](https://hsi-workshop.github.io/program.html).
-* \[2022.05\] Undergrad student Shuyang Zhang, that I co-advised with [Jiaoyang Li](https://jiaoyangli.me/), won the USC Outstanding CS Undergraduate Research Award. We published a paper at SoCS-22 on learning priority orders for agents in path planning. 
-* \[2022.04\] My research on Enhancing Seismic Resilient Water Pipe Network is selected for oral presentation at the Fourteenth Annual Annenberg Graduate Fellowship Research and Creative Project Symposium. Only six submissions were selected!
-* \[2022.03\] I passed the Qualification Exam and now I am a Ph.D. candidate!
 
 
 <details>
   <summary>Show more</summary>
   <ul>
     <li>
-      [2021.12] Our paper on ML-guided large neighborhood search for MAPF is accepted to [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
+      [2022.07] I presented my work with Amazon Robotics on [Deadline Aware Multi-Agent Tour Planning](https://hsi-workshop.github.io/hsi-2022-camera-ready/Deadline-Aware_Multi-Agent_Tour_Planning.pdf) at [HSI Workshop 2022 (in conjunction with IJCAI-ECAI 2022)](https://hsi-workshop.github.io/program.html).
+    </li>
+    <li>
+      [2022.05] Undergrad student Shuyang Zhang, whom I co-advised with [Jiaoyang Li](https://jiaoyangli.me/) won the USC Outstanding CS Undergraduate Research Award. We published a paper at SoCS-22 on learning priority orders for agents in path planning.
+    </li>
+    <li>
+      [2022.04] My research on Enhancing Seismic Resilient Water Pipe Networks is selected for oral presentation at the Fourteenth Annual Annenberg Graduate Fellowship Research and Creative Project Symposium. Only six submissions were selected!
+    </li>
+    <li>
+      [2022.03] I passed the Qualification Exam and now I am a Ph.D. candidate!
+    </li>
+    <li>
+      [2021.12] Our paper on ML-guided large neighborhood search for MAPF has been accepted to [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
     </li>
     <li>
     [2021.11] I am joining <a href="https://ai.facebook.com/"> Facebook AI Research (FAIR)</a> as a research intern next May.
@@ -54,7 +67,7 @@ Workshop](http://www.ipam.ucla.edu/programs/workshops/artificial-intelligence-an
     [2021.08] I finished my 3-month research internship at <a href="https://www.amazon.jobs/en/teams/amazon-robotics"> Amazon Robotics</a>. 
     </li>
     <li>
-    [2021.04] Our team won the 7th place out of 50 teams and received a $1,000 prize in <a href="https://terminal.c1games.com/competitions/237"> Terminal Live (West Coast Regional)</a>, which is a games-based AI & coding competition hosted by <a href="https://www.citadel.com/"> Citadel LLC</a> and <a href="https://www.citadelsecurities.com/"> Citadel Securities]</a>. 
+    [2021.04] Our team won 7th place out of 50 teams and received a $1,000 prize in <a href="https://terminal.c1games.com/competitions/237"> Terminal Live (West Coast Regional)</a>, which is a games-based AI & coding competition hosted by <a href="https://www.citadel.com/"> Citadel LLC</a> and <a href="https://www.citadelsecurities.com/"> Citadel Securities]</a>. 
     </li>
     <li>
     [2021.04] I won a Second Prize of $500 at <a href="https://ahf.usc.edu/events/scymposium/"> the Thirteenth Annual Annenberg Graduate Fellowship Research and Creative Project Symposium</a>. I will be presenting my work on "How and When to Follow Tips: Using Game Theory for Multi-Agent Communication and Coordination in Wildlife Conservation".
