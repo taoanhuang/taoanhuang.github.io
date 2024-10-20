@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Dissertation
+
+* [Improving Decision-Making in Search Algorithms for Combinatorial Optimization with Machine Learning](https://taoanhuang.github.io/files/TaoanThesis.pdf)                     
+    **Taoan Huang**.
+
 ## Working Paper
 
 * [Distributional MIPLIB: a Multi-Domain Library for Advancing ML-Guided MILP Methods.](https://arxiv.org/abs/2406.06954)                     
