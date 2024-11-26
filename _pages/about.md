@@ -23,7 +23,7 @@ My research interests lie in artificial intelligence, with a focus on multi-agen
 
 ## News
 
-# * \[2024.06\] We released [**Distributional MIPLIB**](https://sites.google.com/usc.edu/distributional-miplib/home), the **first** multi-domain library of problem distributions for advancing machine learning-guided mixed integer linear programming solving.
+## \[2024.06\] We released [**Distributional MIPLIB**](https://sites.google.com/usc.edu/distributional-miplib/home), the **first** multi-domain library of problem distributions for advancing machine learning-guided mixed integer linear programming solving.
 * \[2024.08\] I defended my thesis on Improving Decision-Making in Search Algorithms with Machine Learning for Combinatorial Optimizations.
 * \[2024.07\] Our paper on using [contrastive learning for backdoor predictions for MILPs](https://arxiv.org/html/2401.10467v2) has been accepted to [ECAI 2024](https://www.ecai2024.eu/).
 * \[2024.05\] Our papers [ConPaS](https://proceedings.mlr.press/v235/huang24f.html) and [GenCo](https://arxiv.org/abs/2310.02442) have been accepted to ICML 2024.
